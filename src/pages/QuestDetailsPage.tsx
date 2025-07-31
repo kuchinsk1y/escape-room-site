@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom"
 import { quests } from "../data/quest"
 import BookingModal from "../components/BookingModal"
 
-const QuestDetailsPage: React.FC = () => {
+const QuestDetailsPage = () => {
   const { id } = useParams<{ id: string }>()
   const quest = quests.find(q => q.id === id)
   const [modal, setModal] = useState(false)
