@@ -1,7 +1,7 @@
-import React, { FC } from "react"
+import React from "react"
 import { Link } from "react-router-dom"
 
-const NotFoundPage: FC = () => (
+const NotFoundPage = () => (
   <div className="bg-[#1c1c1c]">
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div className="w-full flex-col justify-start items-center lg:gap-16 gap-10 inline-flex pt-12 lg:pb-28 pb-12">
