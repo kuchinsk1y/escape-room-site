@@ -1,7 +1,7 @@
 # Project Overview
 
 ## Introduction
-This repository contains a modern, full-stack web application designed for the US market, featuring a scalable architecture and modular codebase. The project is divided into three main parts: **Admin Panel**, **Backend API**, and **Frontend Client**. Each part is built with industry-standard technologies to ensure maintainability, performance, and security.
+This repository contains a modern, full-stack web application, featuring a scalable architecture and modular codebase. The project is divided into three main parts: **Admin Panel**, **Backend API**, and **Frontend Client**. Each part is built with industry-standard technologies to ensure maintainability, performance, and security.
 
 ---
 
