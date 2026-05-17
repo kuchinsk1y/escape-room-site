@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "public"."Order" ADD COLUMN     "price" DOUBLE PRECISION NOT NULL DEFAULT 100;
